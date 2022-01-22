@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @suminas-dev.
-- 👀 I’m interested in GoLang.
+- 👀 I’m interested in GoLang, mircoservices.
 - 🌱 I’m currently learning software engineering, at university of applied science in Vilnius.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me [mantas.sumin@gmail.com]
