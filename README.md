@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suminas-dev.
 - 👀 I’m interested in GoLang, mircoservices.
-- 🌱 I’m currently learning software engineering, Golang is main language, most interested in writing light-weight microservices. Use it for generating APIs that interact with our front-end applications.
+- 🌱 I’m currently learning software engineering, Golang is main language, most interested in writing light-weight microservices. Use it for generating APIs that interact with front-end applications.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me [mantas.sumin@gmail.com]
 
