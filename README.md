@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning software engineering, most interested in writing light-weight microservices.
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [mantas.sumin@gmail.com]
-- Github progression status soon
 
 <!---
 suminas-dev/suminas-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
